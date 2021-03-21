@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 venv
+fastai/cats
+*pkl
+fastai/test-ginny
